@@ -43,7 +43,7 @@ $json = $jsonGenerator->generate($schema);
 The project is very much a work in progress and there is plenty to do!
 
 - Custom keywords that expose more of the power of [faker](https://github.com/fzaninotto/Faker)
-- Support more way more keywords. Find a list of currently supported ones below.
+- Support way more keywords. Find a list of currently supported ones below.
 - Attempt to infer types if none are provided
 - Improve test coverage!
 - Improve docs!
