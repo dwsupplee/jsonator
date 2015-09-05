@@ -47,12 +47,12 @@ The project is very much a work in progress and there is plenty to do!
 - Improve test coverage!
 - Attempt to infer types if none are provided
 
-## Supported keywords
+## Currently supported keywords
 
-    - properties
-    - required
-    - items
-    - minLength
-    - maxLength
-    - pattern
-    - enum
+- properties
+- required
+- items
+- minLength
+- maxLength
+- pattern
+- enum
