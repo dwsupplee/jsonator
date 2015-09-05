@@ -1,0 +1,7 @@
+{
+    "title": "Example Simple Schema",
+    "type": "array",
+    "items": {
+        "type": "string"
+    }
+}

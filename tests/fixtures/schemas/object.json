@@ -1,0 +1,9 @@
+{
+    "title": "Example Simple Schema",
+    "type": "object",
+    "properties": {
+        "test": {
+            "type": "string"
+        }
+    }
+}

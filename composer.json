@@ -1,0 +1,25 @@
+{
+    "name": "dwsupplee/jsonator",
+    "description": "Convert json schemas into mock sets of data.",
+    "homepage": "http://github.com/dwsupplee/jsonator",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dave Supplee",
+            "email": "dwsupplee@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "JSONator\\": "src/"
+        }
+    },
+    "require": {
+        "fzaninotto/Faker": "*"
+    },
+    "require-dev":{
+        "phpunit/phpunit": "*",
+        "mockery/mockery": "*"
+    },
+    "version": "0.0.1"
+}

@@ -1,0 +1,19 @@
+{
+    "title": "Example Simple Schema",
+    "type": "object",
+    "properties": {
+        "firstName": {
+            "type": "string",
+            "enum": ["dave"]
+        },
+        "lastName": {
+            "type": "string",
+            "enum": ["supplee"]
+        },
+        "age": {
+            "type": "integer",
+            "enum": [30]
+        }
+    },
+    "required": ["firstName", "lastName", "age"]
+}
