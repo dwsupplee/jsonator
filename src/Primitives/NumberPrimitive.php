@@ -17,7 +17,6 @@ class NumberPrimitive
     }
 
     /**
-     * @param stdClass $schema
      * @return string
      */
     public function __invoke()
